@@ -6,3 +6,4 @@
 | ---------------------------------------- | ---------------------------------------- | ---- | ---------- | ---- |
 | [两数之和](https://leetcode-cn.com/problems/two-sum/description/) | [1.js](https://github.com/nighthary/LeetCode/blob/master/js/1.js) | 简单   | JavaScript |      |
 
+| [两数相加](https://leetcode-cn.com/problems/add-two-numbers/description/) | [2.js](https://github.com/nighthary/LeetCode/blob/master/js/2.js) | 中等   | JavaScript |      |
